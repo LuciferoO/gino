@@ -1,0 +1,28 @@
+php_flag display_startup_errors on
+php_flag display_errors off
+php_flag html_errors off
+php_flag log_errors on
+php_value error_reporting 7
+
+# enable PHP error logging
+#php_flag  log_errors on
+php_value error_log  /var/www/vhosts/skytoystory.wassermanexperience.com/httpdocs/PHP/PHP_errors.log
+
+#php_value include_path  "/var/www/vhosts/barclaysyouarefootball.uk.com/httpdocs/"
+
+RewriteEngine On
+RewriteBase /
+RewriteRule ^showphoto/([^/]*)$ /showphoto.php?urn=$1 [L]
+
+
+
+RewriteRule ^showvideo/([^/]*)$ /showvideo.php?urn=$1 [L]
+RewriteRule ^fbphoto/([^/]*)$ /showphoto.php?share_type=FACEBOOK&urn=$1 [L]
+RewriteRule ^twitterphoto/([^/]*)$ /showphoto.php?share_type=TWITTER&urn=$1 [L]
+RewriteRule ^twittervideo/([^/]*)$ /showvideo.php?share_type=TWITTER&urn=$1 [L]
+RewriteRule ^fbvideo/([^/]*)$ /showvideo.php?share_type=FACEBOOK&urn=$1 [L]
+
+
+
+#php_value auto_prepend_file "/var/www/vhosts/barclaysyouarefootball.uk.com/httpdocs/PHP/acu_phpaspect.php"
+

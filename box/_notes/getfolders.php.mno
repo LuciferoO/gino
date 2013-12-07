@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_boxitems" value="name:id;datatype:int,name:ipaddress;datatype:string,name:access_token;datatype:string,name:expires_in;datatype:int,name:refresh_token;datatype:string,name:token_type;datatype:string,name:last_update;datatype:timestamp" />
+</info>

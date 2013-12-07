@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:id;datatype:int,name:usertype;datatype:string,name:profile_pic;datatype:string,name:urn;datatype:string,name:token;datatype:string,name:token_secret;datatype:string,name:user_id;datatype:string,name:screen_name;datatype:string,name:firstname;datatype:string,name:lastname;datatype:string,name:email;datatype:string,name:mobile;datatype:string,name:address;datatype:string,name:postcode;datatype:string,name:customertype;datatype:string,name:fbusername;datatype:string,name:location;datatype:string,name:hometown;datatype:string,name:current_location;datatype:blob,name:added;datatype:timestamp,name:gender;datatype:string,name:extra_optin;datatype:string,name:server_result;datatype:blob,name:posts;datatype:int,name:last_scrape;datatype:timestamp,name:offline;datatype:int,name:winner;datatype:int,name:extraterms;datatype:string" />
+</info>

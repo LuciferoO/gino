@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="completop.php" server="www.ignitesocial.co.uk/httpdocs/youarefotball/" local="130197643402288507" remote="130197911400000000" Dst="2" />
+<file name="forceloggaout.php" server="www.ignitesocial.co.uk/httpdocs/youarefotball/" local="130201274092380242" remote="130201273800000000" Dst="2" />
+<file name="forcelogout.php" server="www.ignitesocial.co.uk/httpdocs/youarefotball/" local="130197643403319235" remote="130197911400000000" Dst="2" />
+<file name="logout.php" server="www.ignitesocial.co.uk/httpdocs/youarefotball/" local="130201274495549890" remote="130201274400000000" Dst="2" />
+<file name="regenerate.php" server="www.ignitesocial.co.uk/httpdocs/youarefotball/" local="130197643407306680" remote="130197911400000000" Dst="2" />
+<file name="setuser.php" server="www.ignitesocial.co.uk/httpdocs/youarefotball/" local="130201332854131548" remote="130201332600000000" Dst="2" />
+<file name="updateuser.php" server="www.ignitesocial.co.uk/httpdocs/youarefotball/" local="130197643408937674" remote="130197911400000000" Dst="2" />
+<file name="completop.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228476000000000" remote="130228476000000000" Dst="2" />
+<file name="forceloggaout.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228612042768048" remote="130228614000000000" Dst="2" />
+<file name="forcelogout.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228476000000000" remote="130228476000000000" Dst="2" />
+<file name="logout.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228612269757656" remote="130228614600000000" Dst="2" />
+<file name="regenerate.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228476000000000" remote="130228476000000000" Dst="2" />
+<file name="setuser.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228631146770511" remote="130228630200000000" Dst="2" />
+<file name="updateuser.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228476000000000" remote="130228476000000000" Dst="2" />
+<file name="scraper.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228612270418114" remote="130228614600000000" Dst="2" />
+<file name="completop.php" server="barclaysyouarefootball.uk.com" local="130213401930000000" remote="130225508400000000" Dst="2" />
+<file name="forceloggaout.php" server="barclaysyouarefootball.uk.com" local="130225584305784837" remote="130225585800000000" Dst="2" />
+<file name="forcelogout.php" server="barclaysyouarefootball.uk.com" local="130197643400000000" remote="130225508400000000" Dst="2" />
+<file name="landed.php" server="barclaysyouarefootball.uk.com" local="130225518588132151" remote="130225519200000000" Dst="2" />
+<file name="logout.php" server="barclaysyouarefootball.uk.com" local="130225520620528397" remote="130225585800000000" Dst="2" />
+<file name="regenerate.php" server="barclaysyouarefootball.uk.com" local="130197643400000000" remote="130225508400000000" Dst="2" />
+<file name="scraper.php" server="barclaysyouarefootball.uk.com" local="130225520620708407" remote="130225585800000000" Dst="2" />
+<file name="setuser.php" server="barclaysyouarefootball.uk.com" local="130225520620918419" remote="130225585800000000" Dst="2" />
+<file name="updateuser.php" server="barclaysyouarefootball.uk.com" local="130197643400000000" remote="130225508400000000" Dst="2" />
+<file name="aes.php" server="barclaysyouarefootball.uk.com" local="130225596742286164" remote="130225596600000000" Dst="2" />
+<file name="aesctr.php" server="barclaysyouarefootball.uk.com" local="130225596744406285" remote="130225596600000000" Dst="2" />
+<file name="aes.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228476000000000" remote="130228476000000000" Dst="2" />
+<file name="aesctr.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228476000000000" remote="130228476000000000" Dst="2" />
+<file name="browsepics.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228476000000000" remote="130228476000000000" Dst="2" />
+<file name="callback.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228476000000000" remote="130228476000000000" Dst="2" />
+<file name="checkuser.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228476000000000" remote="130228476000000000" Dst="2" />
+<file name="cron.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228476000000000" remote="130228476000000000" Dst="2" />
+<file name="cron2.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228476000000000" remote="130228476000000000" Dst="2" />
+<file name="cron_test.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228476000000000" remote="130228476000000000" Dst="2" />
+<file name="deleteme.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228612042718017" remote="130228614000000000" Dst="2" />
+<file name="download.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228476000000000" remote="130228476000000000" Dst="2" />
+<file name="emailer.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228476000000000" remote="130228476000000000" Dst="2" />
+<file name="getuser.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228476000000000" remote="130228476000000000" Dst="2" />
+<file name="increase_like.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228476000000000" remote="130228476000000000" Dst="2" />
+<file name="index.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228612042818084" remote="130228614000000000" Dst="2" />
+<file name="like_success.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228612042848105" remote="130228614600000000" Dst="2" />
+<file name="likecount.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228612269617549" remote="130228614600000000" Dst="2" />
+<file name="likelink.html" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228612042908147" remote="130228614600000000" Dst="2" />
+<file name="likelink.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228612042928161" remote="130228614600000000" Dst="2" />
+<file name="publishphoto - Copy (aflorio@wmgllc.com).php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228612269887740" remote="130228614600000000" Dst="2" />
+<file name="publishphoto.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228612270057919" remote="130228614600000000" Dst="2" />
+<file name="publishscore.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228612270227975" remote="130228614600000000" Dst="2" />
+<file name="saveprize.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228476000000000" remote="130228476000000000" Dst="2" />
+<file name="sharephoto - Copy (aflorio@wmgllc.com).php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228476000000000" remote="130228476000000000" Dst="2" />
+<file name="sharephoto.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228476000000000" remote="130228476000000000" Dst="2" />
+<file name="showphoto - Copy (aflorio@wmgllc.com).php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228612044549347" remote="130228614600000000" Dst="2" />
+<file name="showphoto.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228612044729440" remote="130228614600000000" Dst="2" />
+<file name="tandc.html" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228476000000000" remote="130228476000000000" Dst="2" />
+<file name="test.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228476000000000" remote="130228476000000000" Dst="2" />
+<file name="uploader - Copy (aflorio@wmgllc.com).php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228476000000000" remote="130228476000000000" Dst="2" />
+<file name="uploader.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228476000000000" remote="130228476000000000" Dst="2" />
+<file name="landed.php" server="barclaysyouarefootball.uk.com/httpdocs/" local="130228014740609903" remote="130228614600000000" Dst="2" />
+</dwsync>

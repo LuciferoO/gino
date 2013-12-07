@@ -1,0 +1,1 @@
+<?php header("location:http://www.box.com/api/oauth2/authorize?response_type=code&client_id=zxmmdddymldpm6v7gkb5lklpplr9hks6&state=authenticated") ?>

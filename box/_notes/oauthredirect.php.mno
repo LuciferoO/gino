@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:id;datatype:int,name:fb_id;datatype:string,name:email_hash;datatype:string,name:urn;datatype:string,name:Number of Friends;datatype:int,name:post_type;datatype:string,name:Total unique interactions (comments + likes);datatype:real,name:Likes of photo;datatype:real,name:Likes of post w/o photo;datatype:real,name:Comments on post w/o photo;datatype:real,name:Comments on post with photo;datatype:real,name:Share on FB from email;datatype:real,name:Download picture from email;datatype:real,name:Unique users commenting photo;datatype:real,name:Clicks on FB post from email;datatype:real,name:last_updated;datatype:timestamp" />
+</info>
